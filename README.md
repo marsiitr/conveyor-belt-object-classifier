@@ -12,8 +12,8 @@ A vision-based object classifier that sorts using color detection and a single a
 1) Place an object on the conveyor belt.<br>
 2) The color of the object is detected using OpenCV python.<br>
 3) Arduino receives signals ('G', 'B', 'T') via serial and actuates the sorting arm.<br>
-4) Object is sorted into the appropriate bin (Green, Blue, or Trash).<br>
---> Hardware Required:<br>
+4) Object is sorted into the appropriate bin (Green, Blue, or Trash).
+<br>--> Hardware Required:<br>
 
 -Arduino Uno<br>
 -Servo Motor (for sorting arm)<br>
