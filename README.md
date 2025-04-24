@@ -25,5 +25,5 @@ A vision-based object classifier that sorts using color detection and a single a
 -Webcam<br>
 -Ultrasonic Sensor (for object detection trigger)<br>
 -3D-printed Sorting Arm<br>
--Conveyor Belt Setup..
+-Conveyor Belt Setup.....
 
