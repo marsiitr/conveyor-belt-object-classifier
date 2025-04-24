@@ -17,8 +17,7 @@ A vision-based object classifier that sorts using color detection and a single a
 -->Dev Instructions<br> 
 1)To classify a custom colour update its color rannge in the given python code.<br>
 2)Adjust the servo motor angle accoeding to your project need.<br>
-
-<br>--> Hardware Required:<br>
+--> Hardware Required:<br>
 
 -Arduino Uno<br>
 -Servo Motor (for sorting arm)<br>
